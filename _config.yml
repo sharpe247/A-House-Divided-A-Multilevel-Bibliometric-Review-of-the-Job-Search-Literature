@@ -1,3 +1,2 @@
 layout: default
-theme: jekyll-theme-tactile
-baseurl: .
+theme: jekyll-theme-minimal
